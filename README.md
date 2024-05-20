@@ -1,1 +1,1 @@
-There is currently a rendering issue with notebooks on GitHub. If it hasn't been fixed yet and they cannot be displayed properly, please temporarily use [jupyter nbviewer](https://nbviewer.org). Enter my GitHub username: **elfchildRichter**, and the notebooks should display correctly. Thank you. 😊
+
